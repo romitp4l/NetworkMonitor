@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="background_gradient">#F5F5F5</color> <!-- Light gray background -->
+    <color name="primaryAccent">#6200EE</color> <!-- Primary color for title text -->
+    <color name="primaryText">#212121</color> <!-- Dark gray text -->
+    <color name="secondaryText">#757575</color> <!-- Lighter gray text -->
+    <color name="cardBackground">#FFFFFF</color> <!-- White color for cards -->
+    <color name="background_light">#E9D4D4</color> <!-- White color for cards -->
+    <color name="white">#FFFFFF</color> <!-- White color -->
 </resources>
